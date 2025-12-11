@@ -6,3 +6,4 @@ format: html
 # Über dieses Projekt
 
 Dieses Projekt zeigt, wie man Daten möglichst barrierefrei und FAIR bereitstellen kann – bewusst ohne komplexe Visualisierungen.
+

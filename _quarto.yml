@@ -12,6 +12,7 @@ website:
       - href: about.qmd
         text: Über
   page-navigation: true
+  footer: true
 
 format:
   html:
