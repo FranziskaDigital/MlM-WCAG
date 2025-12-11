@@ -1,0 +1,5 @@
+{
+  "@context": "https://www.w3.org/ns/dcat.jsonld",
+  "@type": "Dataset",
+  "title": "Besucherzahlen 2024"
+}

@@ -1,0 +1,14 @@
+---
+title: "FAIR + Barrierefreie Datenpublikation"
+format: html
+---
+
+# Willkommen
+
+Diese Website zeigt barrierefreie und FAIR-konforme Datenbereitstellung – ohne komplexe Diagrammbibliotheken.
+
+## Besucherzahlen 2024 (Kurzüberblick)
+
+Die höchsten Besucherzahlen treten im Mai, Juni und Juli auf.
+
+Hier geht es [zum Datensatz](dataset.qmd)

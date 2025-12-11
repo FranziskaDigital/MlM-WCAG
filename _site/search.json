@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "FAIR + Barrierefreie Datenpublikation",
+    "section": "",
+    "text": "Diese Website zeigt barrierefreie und FAIR-konforme Datenbereitstellung – ohne komplexe Diagrammbibliotheken.\n\n\nDie höchsten Besucherzahlen treten im Mai, Juni und Juli auf.\nHier geht es zum Datensatz"
+  },
+  {
+    "objectID": "index.html#besucherzahlen-2024-kurzüberblick",
+    "href": "index.html#besucherzahlen-2024-kurzüberblick",
+    "title": "FAIR + Barrierefreie Datenpublikation",
+    "section": "",
+    "text": "Die höchsten Besucherzahlen treten im Mai, Juni und Juli auf.\nHier geht es zum Datensatz"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Über dieses Projekt",
+    "section": "",
+    "text": "Über dieses Projekt\nDieses Projekt zeigt, wie man Daten möglichst barrierefrei und FAIR bereitstellen kann – bewusst ohne komplexe Visualisierungen."
+  },
+  {
+    "objectID": "dataset.html",
+    "href": "dataset.html",
+    "title": "FAIR-konformer Datensatz",
+    "section": "",
+    "text": "Monat\nBesucher\n\n\n\n\nJanuar\n1200\n\n\nFebruar\n1520\n\n\nMärz\n1800\n\n\nApril\n2100\n\n\nMai\n2500\n\n\nJuni\n2700\n\n\nJuli\n2900\n\n\nAugust\n2600\n\n\nSeptember\n2300\n\n\nOktober\n2000\n\n\nNovember\n1700\n\n\nDezember\n1600\n\n\n\n\n\n\nDie Besucherzahlen steigen von Januar bis Juli an und fallen danach bis Dezember wieder ab.\n\n\n\n\nCSV\nJSON\nXML\n\n\n\n\n\nmetadata.json\ndcat.jsonld\nschema.json"
+  },
+  {
+    "objectID": "dataset.html#daten-als-tabelle",
+    "href": "dataset.html#daten-als-tabelle",
+    "title": "FAIR-konformer Datensatz",
+    "section": "",
+    "text": "Monat\nBesucher\n\n\n\n\nJanuar\n1200\n\n\nFebruar\n1520\n\n\nMärz\n1800\n\n\nApril\n2100\n\n\nMai\n2500\n\n\nJuni\n2700\n\n\nJuli\n2900\n\n\nAugust\n2600\n\n\nSeptember\n2300\n\n\nOktober\n2000\n\n\nNovember\n1700\n\n\nDezember\n1600"
+  },
+  {
+    "objectID": "dataset.html#textbeschreibung",
+    "href": "dataset.html#textbeschreibung",
+    "title": "FAIR-konformer Datensatz",
+    "section": "",
+    "text": "Die Besucherzahlen steigen von Januar bis Juli an und fallen danach bis Dezember wieder ab."
+  },
+  {
+    "objectID": "dataset.html#downloads",
+    "href": "dataset.html#downloads",
+    "title": "FAIR-konformer Datensatz",
+    "section": "",
+    "text": "CSV\nJSON\nXML"
+  },
+  {
+    "objectID": "dataset.html#metadaten",
+    "href": "dataset.html#metadaten",
+    "title": "FAIR-konformer Datensatz",
+    "section": "",
+    "text": "metadata.json\ndcat.jsonld\nschema.json"
+  }
+]

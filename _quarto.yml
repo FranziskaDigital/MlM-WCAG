@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "FAIR + Barrierefreie Datenpublikation"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Start
+      - href: dataset.qmd
+        text: Datensatz
+      - href: about.qmd
+        text: Über
+  page-navigation: true
+
+format:
+  html:
+    theme: 
+      light: cosmo
+      dark: cyborg
+    toc: true
+    lang: de
+    code-fold: false
+    link-external-newwindow: true
+    anchor-sections: true
+    css: styles.scss
+    toggle: true
